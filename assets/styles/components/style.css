@@ -1,0 +1,63 @@
+/* MOBILE */
+@import url(/Codechella/assets/styles/mobile/mobile_header.css);
+@import url(/Codechella/assets/styles/mobile/mobile_index.css);
+@import url(/Codechella/assets/styles/mobile/mobile_footer.css);
+@import url(/Codechella/assets/styles/mobile/mobile_experiencia.css);
+@import url(/Codechella/assets/styles/mobile/mobile_setores.css);
+@import url(/Codechella/assets/styles/mobile/mobile_informacoes.css);
+@import url(/Codechella/assets/styles/mobile/mobile_ingressos.css);
+@import url(/Codechella/assets/styles/mobile/mobile_seuingresso.css);
+
+
+/* TABLET */
+@import url(/Codechella/assets/styles/tablet/tablet_header.css);
+@import url(/Codechella/assets/styles/tablet/tablet_index.css);
+@import url(/Codechella/assets/styles/tablet/tablet_footer.css);
+@import url(/Codechella/assets/styles/tablet/tablet_experiencia.css);
+@import url(/Codechella/assets/styles/tablet/tablet_setores.css);
+@import url(/Codechella/assets/styles/tablet/tablet_informacoes.css);
+@import url(/Codechella/assets/styles/tablet/tablet_ingressos.css);
+@import url(/Codechella/assets/styles/tablet/tablet_seuingresso.css);
+
+/* PC */
+@import url(/Codechella/assets/styles/computer/pc_header.css);
+@import url(/Codechella/assets/styles/computer/pc_index.css);
+@import url(/Codechella/assets/styles/computer/pc_footer.css);
+@import url(/Codechella/assets/styles/computer/pc_experiencia.css);
+@import url(/Codechella/assets/styles/computer/pc_setores.css);
+@import url(/Codechella/assets/styles/computer/pc_informacoes.css);
+@import url(/Codechella/assets/styles/computer/pc_ingressos.css);
+@import url(/Codechella/assets/styles/computer/pc_seuingresso.css);
+
+/* COMPONENTS */
+@import url(/Codechella/assets/styles/components/components.css);
+@import url(/Codechella/assets/styles/components/cores.css);
+/* @import url(/assets/styles/components/fonts.css); */
+/* @import url(/assets/styles/efects.css); */
+
+/* * {
+
+} */
+
+body {
+    background: linear-gradient(180deg, #304968 0%, #36C1A0 52.6%, #4650BD 100%);
+    background-repeat: no-repeat;
+    text-rendering: optimizeSpeed;
+    box-sizing: border-box;
+
+    min-width: 300px;
+    max-width: 3000px;
+    margin: 0 auto;
+}
+
+/* BARRA DE ROLAGEM E SCROLL */
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+    background-color: rgb(52, 56, 107);
+}
+
+::-webkit-scrollbar-thumb {
+   background-color: rgb(26, 91, 177);
+}
