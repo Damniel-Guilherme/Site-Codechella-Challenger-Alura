@@ -35,28 +35,28 @@ footer address ul {
 footer address ul li:nth-child(1) {
     width: 2em;
     height: 2em;
-    background-image: url(/assets/imgs/mobile/footer_icon_whatsapp.svg);
+    background-image: url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/imgs/mobile/footer_icon_whatsapp.svg);
     background-repeat: no-repeat;
 }
 
 footer address ul li:nth-child(2) {
     width: 2em;
     height: 2em;
-    background-image: url(/assets/imgs/mobile/footer_icon_twitch.svg);
+    background-image: url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/imgs/mobile/footer_icon_twitch.svg);
     background-repeat: no-repeat;
 }
 
 footer address ul li:nth-child(3) {
     width: 2em;
     height: 2em;
-    background-image: url(/assets/imgs/mobile/footer_icon_instagram.svg);
+    background-image: url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/imgs/mobile/footer_icon_instagram.svg);
     background-repeat: no-repeat;
 }
 
 footer address ul li:nth-child(4) {
     width: 2em;
     height: 2em;
-    background-image: url(/assets/imgs/mobile/footer_icon_twitter.svg);
+    background-image: url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/imgs/mobile/footer_icon_twitter.svg);
     background-repeat: no-repeat;
 }
 
