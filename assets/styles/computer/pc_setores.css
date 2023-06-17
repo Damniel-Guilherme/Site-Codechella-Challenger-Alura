@@ -1,6 +1,6 @@
 @media screen and (min-width: 1440px) {
     main .setores_banner {
-        background-image: url(/Site_Codechella/assets/imgs/computer/main_setores_banner.png);
+        background-image: url(../../imgs/computer/main_setores_banner.png);
     }
     
     main .mapa_setores {
