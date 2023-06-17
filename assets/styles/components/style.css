@@ -1,36 +1,37 @@
 /* MOBILE */
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/mobile/mobile_header.css);
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/mobile/mobile_index.css);
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/mobile/mobile_footer.css);
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/mobile/mobile_experiencia.css);
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/mobile/mobile_setores.css);
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/mobile/mobile_informacoes.css);
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/mobile/mobile_ingressos.css);
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/mobile/mobile_seuingresso.css);
+
+@import url(../mobile/mobile_header.css);
+@import url(../mobile/mobile_index.css);
+@import url(../mobile/mobile_footer.css);
+@import url(../mobile/mobile_experiencia.css);
+@import url(../mobile/mobile_setores.css);
+@import url(../mobile/mobile_informacoes.css);
+@import url(../mobile/mobile_ingressos.css);
+@import url(../mobile/mobile_seuingresso.css);
 
 /* TABLET */
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/tablet/tablet_header.css);
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/tablet/tablet_index.css);
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/tablet/tablet_footer.css);
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/tablet/tablet_experiencia.css);
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/tablet/tablet_setores.css);
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/tablet/tablet_informacoes.css);
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/tablet/tablet_ingressos.css);
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/tablet/tablet_seuingresso.css);
+@import url(../tablet/tablet_header.css);
+@import url(../tablet/tablet_index.css);
+@import url(../tablet/tablet_footer.css);
+@import url(../tablet/tablet_experiencia.css);
+@import url(../tablet/tablet_setores.css);
+@import url(../tablet/tablet_informacoes.css);
+@import url(../tablet/tablet_ingressos.css);
+@import url(../tablet/tablet_seuingresso.css);
 
 /* PC */
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/computer/pc_header.css);
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/computer/pc_index.css);
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/computer/pc_footer.css);
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/computer/pc_experiencia.css);
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/computer/pc_setores.css);
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/computer/pc_informacoes.css);
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/computer/pc_ingressos.css);
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/computer/pc_seuingresso.css);
+@import url(../computer/pc_header.css);
+@import url(../computer/pc_index.css);
+@import url(../computer/pc_footer.css);
+@import url(../computer/pc_experiencia.css);
+@import url(../computer/pc_setores.css);
+@import url(../computer/pc_informacoes.css);
+@import url(../computer/pc_ingressos.css);
+@import url(../computer/pc_seuingresso.css);
 
 /* COMPONENTS */
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/components/components.css);
-@import url(/Site_-_Challenger_Front-End_6_-_Codechella/assets/styles/components/cores.css);
+@import url(../components/components.css);
+@import url(../components/cores.css);
 /* @import url(/assets/styles/components/fonts.css); */
 /* @import url(/assets/styles/efects.css); */
 
