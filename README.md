@@ -31,8 +31,8 @@ O **Site Codechella Challenger-Alura** é um site de com temática do Challenger
 - [Aprendizados](#aprendizados)
 - [Técnicas Aplicadas](#técnicas-aplicadas)
 - [Dificuldades](#dificuldades)
-- [Contribuição](#contribuição)
 - [Licença](#licença)
+- [Contribuição](#contribuição)
 - [Contato](#contato)
 - [Updates](#updates)
 
