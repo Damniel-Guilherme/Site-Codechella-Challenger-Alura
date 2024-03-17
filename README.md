@@ -89,6 +89,11 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
   </div>
 </div>
 
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://img.icons8.com/?size=96&id=QBqFNfPPB2Kx&format=png" width="25" title="CSS" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">Sass:</strong> Sass serve para facilitar a escrita e manutenção de estilos em páginas da web, estendendo as funcionalidades do CSS.
+  </div>
+</div>
+
 ## Ferramentas 🧰🛠️
 
 <div>
@@ -115,6 +120,12 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
     <strong>Canva:</strong> 
     <span>Uma plataforma de design gráfico online que permite criar uma variedade de conteúdos visuais, como apresentações, cartazes, mídias sociais, entre outros, de forma simples e intuitiva.</span>
   </div>
+
+<div style="display: flex; align-items: center;">
+    <img src="https://img.icons8.com/?size=512&id=W0YEwBDDfTeu&format=png" width="25" title="Canva" style="pointer-events: none;" /> 
+    <strong>Figma:</strong> 
+    <span>Uma plataforma de design gráfico online que permite criar uma variedade de conteúdos visuais, como apresentações, cartazes, mídias sociais, entre outros, de forma simples e intuitiva.</span>
+</div>
 
 </div>
 
@@ -171,6 +182,8 @@ Durante o desenvolvimento deste projeto, aprendemos e praticamos diversas habili
 
 Esses aprendizados foram fundamentais para o sucesso e qualidade do nosso projeto, fornecendo uma base sólida para futuros desenvolvimentos e contribuições.
 
+- **Sass:** Sass é uma linguagem de folhas de estilo que estende o CSS, permitindo uma codificação mais eficiente e organizada. Ele oferece recursos como variáveis, aninhamento de seletores, mixins e funções, facilitando a criação e manutenção de estilos para páginas da web.
+
 ## ~~Técnicas Aplicadas~~  ✔📌
 
 Neste projeto,  ~~aplicamos~~  várias técnicas de desenvolvimento web, incluindo:
@@ -182,6 +195,8 @@ Neste projeto,  ~~aplicamos~~  várias técnicas de desenvolvimento web, incluin
 - **SEO e Acessibilidade:** Utilizamos meta tags estratégicas para otimizar o site para mecanismos de busca (SEO) e implementamos práticas de acessibilidade para garantir que o site seja acessível para todos os usuários, incluindo aqueles com deficiências.
 
 - **Design Responsivo e Mobile First":** No projeto, priorizamos o design responsivo e adotamos a abordagem mobile-first, garantindo total funcionalidade e estética em dispositivos móveis. Expandimos o design para dispositivos maiores, mantendo consistência e usabilidade em todas as plataformas, assegurando uma experiência otimizada para todos os usuários.
+
+- **Sass:** Sass é uma linguagem de folhas de estilo que estende o CSS, oferecendo recursos avançados para uma codificação mais eficiente e organizada, como variáveis, aninhamento de seletores e mixins.
 
 ## Dificuldades 🚨
 
