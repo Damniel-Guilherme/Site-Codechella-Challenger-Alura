@@ -179,10 +179,10 @@ Durante o desenvolvimento deste projeto, aprendemos e praticamos diversas habili
 - **Componentização:** Adotamos a prática de componentização, dividindo o projeto em componentes reutilizáveis para promover a modularidade e escalabilidade do código.
 
 - **Design Responsivo e Mobile-First:** Aprendemos e aplicamos os princípios do design responsivo e adotamos a abordagem mobile-first durante o desenvolvimento do projeto. Isso nos permitiu criar um site que se adapta de forma fluida a diferentes tamanhos de tela e dispositivos, garantindo uma experiência consistente e otimizada, especialmente para dispositivos móveis, onde começamos o processo de design e expandimos para telas maiores. Essa abordagem assegura que nosso site seja acessível e visualmente atraente em uma variedade de dispositivos, desde smartphones até desktops, priorizando a experiência do usuário em dispositivos móveis e adaptando-a para outras plataformas.
+  
+- **Sass:** Sass é uma linguagem de folhas de estilo que estende o CSS, permitindo uma codificação mais eficiente e organizada. Ele oferece recursos como variáveis, aninhamento de seletores, mixins e funções, facilitando a criação e manutenção de estilos para páginas da web.
 
 Esses aprendizados foram fundamentais para o sucesso e qualidade do nosso projeto, fornecendo uma base sólida para futuros desenvolvimentos e contribuições.
-
-- **Sass:** Sass é uma linguagem de folhas de estilo que estende o CSS, permitindo uma codificação mais eficiente e organizada. Ele oferece recursos como variáveis, aninhamento de seletores, mixins e funções, facilitando a criação e manutenção de estilos para páginas da web.
 
 ## ~~Técnicas Aplicadas~~  ✔📌
 
