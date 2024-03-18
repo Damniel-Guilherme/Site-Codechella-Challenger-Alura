@@ -36,7 +36,6 @@ O **Site Codechella Challenger-Alura** é um site de com temática do Challenger
 - [Contato](#contato)
 - [Updates](#updates)
 
-
 ## Objetivo do Projeto 🎯
 
 **Objetivo Profissional do Projeto:**
@@ -54,7 +53,6 @@ O objetivo central deste projeto é promover a aquisição e aprimoramento dos c
         <img src="https://i.imgur.com/tdV1y7q.png" alt="Imagem Mobile" width="100">
         <img src="https://i.imgur.com/PVVbWjk.png" alt="Imagem Desktop" width="250">
 </div>
-
 
 ## Instalação ⚙️
 
@@ -144,7 +142,6 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
     <img src="https://i.imgur.com/rnH2RuQ.png" width="100px">
     <img src="https://i.imgur.com/rnH2RuQ.png" width="100px">
     <img src="https://i.imgur.com/O0pXuVh.png" width="100px">
-
 </div>
 
 <br>
@@ -226,9 +223,7 @@ Se você tiver alguma dúvida ou sugestão sobre o Projeto, entre em contato:
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:SEUGMAIL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@SEUUSERNAME/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)
 
-
 Não hesite em nos contatar. Estamos sempre aqui para ajudar!
-
 
 ## Updates 🔄
 
