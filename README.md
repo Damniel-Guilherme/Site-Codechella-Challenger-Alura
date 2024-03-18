@@ -22,7 +22,7 @@ O **Site Codechella Challenger-Alura** é um site de com temática do Challenger
 - [Demonstração do Projeto](#Demonstração-Do-Projeto)
 - [Instalação](#instalação)
 - [Uso](#uso)
-- [Sistema Operacional](#sistema-operacional)  <!-- Corrigido o texto âncora -->
+- [Sistema Operacional](#sistema-operacional) 
 - [Linguagens Utilizadas](#linguagens-utilizadas)
 - [Ferramentas](#ferramentas)
 - [Plugins](#plugins)
