@@ -12,7 +12,7 @@
 
 ## Descrição 📝
 
-O **Site Codechella Challenger-Alura** é um site de com temática do Challenger da Alura desenvolvido com o propósito de aprendizado, seguindo o roadmap [RoadMap ETAPA 1 - HTML, CSS E SASS] PROJETO 3.
+O **Site Codechella Challenger-Alura** é um site desenvolvido com o propósito de aprendizado, seguindo o roadmap [RoadMap ETAPA 1 - HTML, CSS E SASS] PROJETO 3.
 
 ## Tabela de Conteúdos 
 
