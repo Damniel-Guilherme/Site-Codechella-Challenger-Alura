@@ -225,6 +225,6 @@ Não hesite em nos contatar. Estamos sempre aqui para ajudar!
 
 ## Updates 🔄
 
-Mantenha-se atualizado com as últimas novidades e atualizações do projeto: **Site Codechella Challenger-Alura**:
+Mantenha-se atualizado com as últimas novidades e atualizações do projeto:
 
 - [Histórico de Atualizações](#) [**Sem Atualizações no Momento!!**]
